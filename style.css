@@ -723,8 +723,9 @@
     
     .menu .menu-bar {
         color: #bdc1c6;
-        font-size: 16px;
+        font-size: 18px;
         margin-bottom: 6px;
+        font-family: arial, sans-serif;
     }
     
     .sub-button-section span {
@@ -742,6 +743,7 @@
         margin-top: 10px;
         font-size: 16px;
         color: #bdc1c6;
+        line-height: 1.6;
     }
     
     .sec-bottom {
